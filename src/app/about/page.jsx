@@ -43,14 +43,16 @@ const Page = () => {
                 </Heading>
                 <br />
                 <Text>
-                  I&apos;m <span className="name">Vaheed</span>, a passionate
-                  software developer. I specialize in{" "}
-                  <span className="tech">Web Development</span>, crafting
-                  seamless user experiences and robust backend solutions. With a
-                  knack for problem-solving, I thrive on creating elegant code
-                  that makes an impact. I&apos;m always exploring new tools and
-                  techniques to stay at the forefront of the ever-evolving tech
-                  landscape.
+                  I&apos;m <span className="name">Sajith Shaik</span>, a passionate
+                  Full Stack Developer. I specialize in{" "}
+                  <span className="tech">Full Stack Development.</span>
+                  As a Software Engineer, Having Proficiency in Mern Stack, I’m Responsible for
+                  developing user interface and functionality of the application, Developing the
+                  application as per the functionality by business requirements which will be
+                  used by the operations team, Responsible to make sure all the components
+                  used in web application are designed as reusable modules which can be
+                  either used within the application and outside the application with minimal
+                  config changes.
                 </Text>
                 <br />
                 <Text>
