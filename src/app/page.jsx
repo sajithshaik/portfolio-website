@@ -67,7 +67,7 @@ export default function Home() {
               color="blueTheme.navLinkActive"
               fontFamily="Righteous"
             >
-              Hi, I'm
+              Hi, I &apos;m
             </Heading>
           </RevealWrapper>
           <RevealWrapper className="load-hidden" delay={500}>
